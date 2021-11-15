@@ -9,10 +9,9 @@
  1. 没有
  2. 没有
 我学过html、css、js、php给你们来一段啊
-  ```javascript
- function lee(){
+
+function lee(){
   console.log('hello welcome to lee world')
 }
 
 lee()
-  ```
