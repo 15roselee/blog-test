@@ -8,7 +8,7 @@
 ##### 我的个人经历
  1. 没有
  2. 没有
-我学过`html、css、js、php`给你们来一段啊
+我学过`html`、`css`、`js`、php给你们来一段啊
  ```javascript
  function lee(){
   console.log('hello welcome to lee world')
